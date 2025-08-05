@@ -11,7 +11,7 @@ The goal is to:
 
 ## Repository Contents
 #### Files:
-`drivers_2025.csv` : Scraped data for 2025 drivers including team, races, wins, and podiums 
+`drivers_2025.csv` : Scraped data for 2025 drivers including team, races, wins, and podiums
 
 `seasons.csv`      : Season-level summary: champions, constructors, race counts (1950–2025)
 
