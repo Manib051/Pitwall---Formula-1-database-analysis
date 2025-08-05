@@ -12,10 +12,15 @@ The goal is to:
 ## Repository Contents
 #### Files:
 `drivers_2025.csv` : Scraped data for 2025 drivers including team, races, wins, and podiums 
+
 `seasons.csv`      : Season-level summary: champions, constructors, race counts (1950–2025)
-`teams_2024.csv`   : Team-level data for 2024 including drivers and podium counts                
-`records.csv`      : Data containing historical percentages for podium and win records           
-`README.md`        : Project documentation (this file)                                           
+
+`teams_2024.csv`   : Team-level data for 2024 including drivers and podium counts 
+
+`records.csv`      : Data containing historical percentages for podium and win records 
+
+`README.md`        : Project documentation (this file)  
+
 `F1.ipynb`         : Main Jupyter notebook containing the scraping, analysis, and visualizations 
 
 All data in this project was scraped from:  ( https://pitwall.app/ )
